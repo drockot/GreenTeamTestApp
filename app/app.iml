@@ -90,9 +90,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="netty-codec-http-4.0.24.Final" level="project" />
     <orderEntry type="library" exported="" name="jackson-dataformat-msgpack-0.7.0-p7" level="project" />
-    <orderEntry type="library" exported="" name="jackson-databind-2.4.4" level="project" />
     <orderEntry type="library" exported="" name="rxjava-1.0.8" level="project" />
     <orderEntry type="library" exported="" name="jackson-core-2.4.4" level="project" />
+    <orderEntry type="library" exported="" name="jackson-databind-2.4.4" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-22.2.0" level="project" />
     <orderEntry type="library" exported="" name="jawampa-core-0.4.0" level="project" />
     <orderEntry type="library" exported="" name="msgpack-core-0.7.0-p7" level="project" />
